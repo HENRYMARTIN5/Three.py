@@ -5,7 +5,7 @@ HERE = pathlib.Path(__file__).parent
 
 VERSION = '0.1.0'
 PACKAGE_NAME = 'three.py'
-AUTHOR = 'HENRYMARTIN4'
+AUTHOR = 'HENRYMARTIN5'
 AUTHOR_EMAIL = 'you@email.com'
 URL = 'https://github.com/HENRYMARTIN5/Three.py/'
 
